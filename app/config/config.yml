@@ -1,4 +1,5 @@
 # config.yml
+# file konfigurasi web
 
 imports:
     - { resource: parameters.yml }
